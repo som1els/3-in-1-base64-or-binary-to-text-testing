@@ -1,8 +1,6 @@
 import base64
 import sys
 
-def clear_screen():
-    print("\033[H\033[2J", end="")
 
 def text_to_base64():
     text = input("\nEnter text to encode to Base64: ")
