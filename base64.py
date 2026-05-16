@@ -58,7 +58,6 @@ def main():
 
 if __name__ == "__main__":
     try:
-        clear_screen()
         main()
     except KeyboardInterrupt:
         print("\n\nProgram interrupted. Goodbye!")
