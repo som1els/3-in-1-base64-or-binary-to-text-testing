@@ -31,7 +31,7 @@ def binary_to_text():
 
 def main():
     while True:
-        print("\n=== 2-in-1 Developer Converter ===")
+        print("\n=== 3-in-1 Developer Converter ===")
         print("1. Text to Base64")
         print("2. Base64 to Text")
         print("3. Text to Binary")
